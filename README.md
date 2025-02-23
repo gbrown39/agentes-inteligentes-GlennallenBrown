@@ -11,3 +11,7 @@ Se simula la detección de vehículos con un número aleatorio.
 Sistema Experto para Diagnóstico
 El sistema experto usa reglas predefinidas para diagnosticar síntomas.
 El usuario ingresa síntomas, y el sistema devuelve un diagnóstico.
+
+Agente de Recomendación de Películas
+El agente tiene un diccionario de películas organizadas por género.
+El usuario elige un género, y el agente recomienda una película aleatoria.

@@ -34,7 +34,7 @@ class AgenteBuscador:
             print("\nMovimiento del agente:")
             self.mostrar_cuadricula()
             time.sleep(1)
-
+        # esta modificacion es nueva
         print("\n¡Objeto encontrado!")
 
 # Ejecutar el agente

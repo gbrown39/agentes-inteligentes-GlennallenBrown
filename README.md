@@ -7,3 +7,7 @@ Agente de Semáforo
 El semáforo cambia de estado (verde, amarillo, rojo) en un bucle infinito.
 El tiempo en verde se ajusta según el número de vehículos detectados.
 Se simula la detección de vehículos con un número aleatorio.
+
+Sistema Experto para Diagnóstico
+El sistema experto usa reglas predefinidas para diagnosticar síntomas.
+El usuario ingresa síntomas, y el sistema devuelve un diagnóstico.
